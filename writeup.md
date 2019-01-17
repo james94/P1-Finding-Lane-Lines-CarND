@@ -81,5 +81,3 @@ Fortunately, I was able to apply Gaussian Smoothing to the above image to remove
 
 A possible improvement would be to tune the parameters for Canny Edge Detection and Hough Transform functions to make sure that lane line markers between the lane line segments
 are detected too.
-
-Another potential improvement could be to ...
