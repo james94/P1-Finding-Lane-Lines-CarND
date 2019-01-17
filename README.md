@@ -27,4 +27,35 @@ Contents
 - **test_videos/**: test videos
 - **test_videos_output/**: test videos with lane lines detected
 
+How To Set Up Project
+---
 
+**Step 1:** Setup Python
+
+Python 3 is needed. Python packages that you will use include numpy, matplotlib, OpenCV and moviepy. Jupyter notebook will be used to build the lane line detection application.
+
+Choose **[Python 3 Anaconda](https://www.anaconda.com/download/#macos)** install package for your operating system. Download and install it.
+
+~~~bash
+conda create --name={environment-name} python=3 
+source activate {environment-name}
+~~~
+
+**Step 2:** Installing OpenCV
+
+~~~bash
+pip install msgpack
+pip install opencv-contrib-python
+~~~
+
+**Step 3:** Installing moviepy
+
+~~~bash
+pip install moviepy
+~~~
+
+**Step 4:** Opening the project in Jupyter Notebook
+
+~~~bash
+jupyter notebook
+~~~
