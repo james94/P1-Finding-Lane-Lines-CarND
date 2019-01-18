@@ -16,8 +16,8 @@ To meet specifications in the project, take a look at the requirements in the [p
 Contents
 ---
 
-- **P1.ipynb**: project code
-- **writeup.md**: a brief writeup explaining my lane detection pipeline, shortcomings and potential improvements
+- **[P1.ipynb](https://github.com/james94/P1-LaneLines-CarND/blob/master/P1.ipynb)**: project code
+- **[writeup.md](https://github.com/james94/P1-LaneLines-CarND/blob/master/writeup.md)**: a brief writeup explaining my lane detection pipeline, shortcomings and potential improvements
 - **README.md**: this file
 - **example/s**: examples includes pictures and videos of lane line segment and solid line detection
 - **data_pipeline_images/**: images to show each step of the pipeline process
