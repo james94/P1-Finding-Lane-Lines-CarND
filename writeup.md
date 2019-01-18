@@ -45,7 +45,9 @@ represent the detected lane lines. The second version of the data pipeline
 draws **solid red lines** to represent the detected lane lines by using a modified
 **draw_lines()** function.
 
-The **draw_lines()** function was modified to draw solid lines for both the
+### Modified draw_lines() for Drawing Solid Lines or Line Segments
+
+The **draw_lines()** function was updated to draw solid lines for both the
 left lane and right lane. I added the top (**y_min**) and bottom (**y_max**) 
 y coordinate for the lane line region of interest. I added computing the 
 slope (**m**) and y-intercept (**b**) for each line segment by using its 
