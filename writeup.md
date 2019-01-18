@@ -83,3 +83,10 @@ Fortunately, I was able to apply Gaussian Smoothing to the above image to remove
 
 A possible improvement would be to tune the parameters for Canny Edge Detection and Hough Transform functions to make sure that lane line markers between the lane line segments
 are detected too.
+
+### References
+
+I want to give credit to Udacity Self-Driving Car Nanodegree lecture and example code. I also want to give thanks to HanByul Yang for publishing a github repo for reference. 
+
+- Udacity, Self-Driving Car, Lesson 5 - Computer Vision Fundamentals
+- Yang, Github Repo, Self Driving Car Engineer Nanodegree
